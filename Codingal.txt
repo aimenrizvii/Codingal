@@ -1,4 +1,5 @@
 My name is Aimen
 I study in Grade 8
 I am learning how to code on Git
+Today is my first coding class about GitHub
 
